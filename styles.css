@@ -3,6 +3,9 @@
     margin:0;
     padding:0;
 }
+h1{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
 
 body{
     background-color:#B2B1CF;
@@ -63,8 +66,9 @@ body{
 
 #msg
 {
-    color:#ffffc7;
+    color:#011936;
     font-size:8vmin;
+    font-family:'Dancing Script', sans-serif !important;
 }
 
 .msg-container
